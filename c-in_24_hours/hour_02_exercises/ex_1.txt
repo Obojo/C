@@ -1,0 +1,5 @@
+Is #include <stdio.h> the same as #include “stdio.h”?
+
+They are similar in the way they operate. The only difference is that 
+"stdio.h" begining searching for the headerfile from your current
+directory."
